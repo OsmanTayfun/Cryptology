@@ -3,7 +3,10 @@ from SingleDDT import singleDDT
 # Author: Osman Tayfun Yelim
 # Date: 15.12.2016
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2c3b7d6dd68afc13753cff9efc7936960a429415
 def completeUB():#UB : Undisturbed Bits
 
     l_sboxes = [[0,8,6,13,5,15,7,12,4,14,2,3,9,1,11,10],#S0
