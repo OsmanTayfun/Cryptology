@@ -1,5 +1,8 @@
 import numpy as np
 
+# Author: Osman Tayfun Yelim
+# Date: 15.12.2016
+
 def completeLAT():
 
     l_sboxes = [[0,8,6,13,5,15,7,12,4,14,2,3,9,1,11,10], #S0
